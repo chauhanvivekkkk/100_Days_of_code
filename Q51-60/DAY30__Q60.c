@@ -32,5 +32,10 @@ int main(void) {
 
 /*
 SAMPLE TEST CASES:
-
+PS C:\Users\Lenovo\OneDrive\Documents\100_Days_of_code> cd "c:\Users\Lenovo\OneDrive\Documents\100_Days_of_code\" ; if ($?) { gcc tempCodeRunnerFile.c -o tempCodeRunnerFile } ; if ($?) { .\tempCodeRunnerFile }
+Enter the number of elements: 5
+Enter 5 elements:
+-2 -1 0 1 2
+Positive=2, Negative=2, Zero=1
+PS C:\Users\Lenovo\OneDrive\Documents\100_Days_of_code> 
 */
