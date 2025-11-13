@@ -34,5 +34,11 @@ int main() {
 }
 /*
 SAMPLE TEST CASES:
-
+PS C:\Users\Lenovo\OneDrive\Documents\100_Days_of_code> cd "c:\Users\Lenovo\OneDrive\Documents\100_Days_of_code\Q61-70\" ; if ($?) { gcc DAY32__Q64.c -o DAY32__Q64 } ; if ($?) { .\DAY32__Q64 }
+Enter a number: 112233
+Digit with highest frequency: 1
+PS C:\Users\Lenovo\OneDrive\Documents\100_Days_of_code\Q61-70> cd "c:\Users\Lenovo\OneDrive\Documents\100_Days_of_code\Q61-70\" ; if ($?) { gcc DAY32__Q64.c -o DAY32__Q64 } ; if ($?) { .\DAY32__Q64 }
+Enter a number: 887799
+Digit with highest frequency: 7
+PS C:\Users\Lenovo\OneDrive\Documents\100_Days_of_code\Q61-70>
 */
