@@ -1,4 +1,0 @@
-/*
-SAMPLE TEST CASES:
-
-*/
